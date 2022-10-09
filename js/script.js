@@ -58,7 +58,7 @@ function getExchangeRate() {
   }
 
   var myHeaders = new Headers();
-  myHeaders.append("apikey", "dhjrTfSXtsJEPpCV28bYPb8CtGqql8O9");
+  myHeaders.append("apikey", "API_KEY");
 
   var requestOptions = {
     method: 'GET',
